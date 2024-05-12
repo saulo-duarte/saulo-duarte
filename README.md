@@ -29,8 +29,8 @@ Como universitário em busca de conhecimento em Data Science, tenho me dedicado 
 
 ## 
 <a href="https://github.com/saulo-duarte">
-    <img height="80px" src="https://github-readme-stats.vercel.app/api?username=saulo-duarte&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark" />
-    <img height="80px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulo-duarte&hide=html&hide_title=true&layout=compact&theme=github_dark&langs_count=6&exclude_repo=comp426,Redventures-Movie-" 
+    <img height="110px" src="https://github-readme-stats.vercel.app/api?username=saulo-duarte&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark" />
+    <img height="110px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulo-duarte&hide=html&hide_title=true&layout=compact&theme=github_dark&langs_count=6&exclude_repo=comp426,Redventures-Movie-" 
 />
 </a>
 
