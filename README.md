@@ -23,7 +23,7 @@ Como universitário em busca de conhecimento em Data Science, tenho me dedicado 
 ### 📝 Projetos
 
 <a href="https://github.com/saulo-duarte/Projeto-Acidentes-Rodovias-Federais">
-    <img  height="45px"src="https://cdni.iconscout.com/illustration/premium/thumb/car-crash-4981330-4144438.png" 
+    <img  height="50px"src="https://images.squarespace-cdn.com/content/v1/58c184ec17bffc0ccdaa2fca/1604565056609-UPWHG68HYGK13KRQXOIK/Car-Crash.gif" 
 />
 </a>
 
