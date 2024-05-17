@@ -25,7 +25,7 @@ Como universitário em busca de conhecimento em Data Science, tenho me dedicado 
 ###### Acidentes em Rodovias  |    Datacleaning
 
 [<img src="https://images.squarespace-cdn.com/content/v1/58c184ec17bffc0ccdaa2fca/1604565056609-UPWHG68HYGK13KRQXOIK/Car-Crash.gif" height="75px">](https://github.com/saulo-duarte/Projeto-Acidentes-Rodovias-Federais)
-[<img src="https://www.realsimple.com/thmb/VRH1_Fk5MRzpHSG1gutVvIAJjiM=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc()/how-to-clean-everything-tout-44daa25fd71448ddba7757b6f4fe14d4.png" height="75px">](https://github.com/saulo-duarte/Data-Cleaning)
+[<img src="https://i.pinimg.com/originals/ab/c3/8c/abc38c1b8b7f7744771662024b4f0bba.gif" height="75px">](https://github.com/saulo-duarte/Data-Cleaning)
 
 ## 
 <a href="https://github.com/saulo-duarte">
