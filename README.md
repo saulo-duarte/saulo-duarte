@@ -7,13 +7,13 @@
 ##
 ### 👾 Sobre mim 👾
 
-Como universitário em busca de conhecimento em Data Science, tenho me dedicado a desenvolver projetos que me aproximem desse campo. Utilizando técnicas estatísticas e algoritmos de machine learning, busco extrair padrões e insights valiosos. Essas experiências têm sido cruciais para meu crescimento na área, preparando-me para enfrentar futuros desafios com confiança.
+Como universitário em busca de conhecimento em Engenharia de Dados, tenho me dedicado a desenvolver projetos que me aproximem desse campo. Utilizando técnicas de modelagem de dados e ferramentas de processamento de grandes volumes de informações, busco otimizar fluxos de dados e garantir a integridade das informações. 
 
 ##
 ### 🔧 Technologies 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SK](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
