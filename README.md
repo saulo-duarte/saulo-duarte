@@ -7,7 +7,7 @@
 ##
 ### 👾 Sobre mim 👾
 
-Como universitário em busca de conhecimento em Engenharia de Dados, tenho me dedicado a desenvolver projetos que me aproximem desse campo. Utilizando técnicas de modelagem de dados e ferramentas de processamento de grandes volumes de informações, busco otimizar fluxos de dados e garantir a integridade das informações. 
+Estudante de Banco de Dados na Universidade São Judas, com foco em direcionar minha carreira para a área de infraestrutura, especialmente em engenharia de dados. Buscando oportunidades para expandir conhecimentos e colaborar em projetos desafiadores 
 
 ##
 ### 🔧 Technologies 
