@@ -7,7 +7,11 @@
 ##
 ### 👾 Sobre mim 👾
 
-Estudante de Banco de Dados na Universidade São Judas, com foco em direcionar minha carreira para a área de infraestrutura, especialmente em engenharia de dados. Buscando oportunidades para expandir conhecimentos e colaborar em projetos desafiadores 
+Atualmente, sou estagiário em Desenvolvimento na Certiphic. Realizo criação e otimização de pipelines de dados. Trabalhando com a extração de dados de diversas fontes, como planilhas e web scraping, e realizando a transformação e carga desses dados, meu foco é garantir a eficiência e a integridade das informações, de modo a prover suporte eficaz às áreas de negócios.
+
+Além do estágio, estou cursando Banco de Dados na Universidade São Judas, onde aprofundo meus conhecimentos em bancos relacionais e não-relacionais, computação em nuvem, e práticas de DataOps e DevOps. Estou estudando também sobre CI/CD e a estruturação de data warehouses e data lakes, o que me proporciona uma base sólida para enfrentar desafios complexos na gestão de dados.
+
+Meu objetivo é continuar a crescer na área de Engenharia de Dados, contribuindo para projetos que envolvem a criação de soluções escaláveis e orientadas a dados. Busco constantemente aprender e aplicar novas tecnologias para resolver problemas de negócios e aprimorar a eficiência dos processos de dados.
 
 ##
 ### 🔧 Technologies 
@@ -20,10 +24,12 @@ Estudante de Banco de Dados na Universidade São Judas, com foco em direcionar m
 ##
 ### 📝 Projetos
 
-###### Acidentes em Rodovias  |    Datacleaning
+###### Acidentes em Rodovias  | Extrator de PDF
 
 [<img src="https://images.squarespace-cdn.com/content/v1/58c184ec17bffc0ccdaa2fca/1604565056609-UPWHG68HYGK13KRQXOIK/Car-Crash.gif" height="75px">](https://github.com/saulo-duarte/Projeto-Acidentes-Rodovias-Federais)
-[<img src="https://i.pinimg.com/originals/ab/c3/8c/abc38c1b8b7f7744771662024b4f0bba.gif" height="75px">](https://github.com/saulo-duarte/Data-Cleaning)
+[<img src="https://miro.medium.com/v2/resize:fit:1400/1*Om3P6IORQ9vHjinSBdTv7g.gif" height="75px">](https://github.com/saulo-duarte/Transformador-PDF-para-BD)
+
+
 
 ## 
 <a href="https://github.com/saulo-duarte">
